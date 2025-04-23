@@ -491,7 +491,7 @@ function App() {
                   </div>
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-sm text-white/80">info@pravaah.com</p>
+                    <p className="text-sm text-white/80">pravaahcommodities@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3 text-white">
@@ -512,7 +512,7 @@ function App() {
                   </div>
                   <div>
                     <p className="font-medium">Phone</p>
-                    <p className="text-sm text-white/80">+1 (555) 123-4567</p>
+                    <p className="text-sm text-white/80">+91 78638 93010</p>
                   </div>
                 </div>
               </div>
@@ -597,8 +597,8 @@ function App() {
             <div>
               <h4 className="text-accent font-semibold mb-4">Contact</h4>
               <ul className="space-y-2">
-                <li>info@pravaah.com</li>
-                <li>+1 (555) 123-4567</li>
+                <li>pravaahcommodities@gmail.com</li>
+                <li>+91 78638 93010</li>
                 <li>Dubai, UAE</li>
               </ul>
             </div>
