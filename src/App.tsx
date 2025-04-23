@@ -491,7 +491,8 @@ function App() {
                   </div>
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-sm text-white/80">pravaahcommodities@gmail.com</p>
+                    <p className="text-sm text-white/80">pravaahcommodities
+                      @gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3 text-white">
