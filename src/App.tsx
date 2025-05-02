@@ -90,7 +90,7 @@ function App() {
         <div className="relative z-10 max-w-7xl mx-auto px-6 pt-32">
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight">
-              Global Logistics <span className="text-accent">Excellence</span>
+              Global Trade <span className="text-accent">Excellence</span>
             </h1>
             <p className="mt-6 text-xl text-gray-200 max-w-xl">
               Connecting businesses across continents with innovative solutions
@@ -470,7 +470,7 @@ function App() {
                   </div>
                   <div>
                     <p className="font-medium">Location</p>
-                    <p className="text-sm text-white/80">Dubai, UAE</p>
+                    <p className="text-sm text-white/80">Gujarat, India</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3 text-white">
@@ -600,7 +600,7 @@ function App() {
               <ul className="space-y-2">
                 <li>pravaahcommodities@gmail.com</li>
                 <li>+91 78638 93010</li>
-                <li>Dubai, UAE</li>
+                <li>Gujarat, India</li>
               </ul>
             </div>
           </div>
