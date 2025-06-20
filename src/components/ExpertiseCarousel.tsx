@@ -101,7 +101,7 @@ export function ExpertiseCarousel({ items }: ExpertiseCarouselProps) {
                 <img
                   src={item.image}
                   alt={item.title}
-                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 saturate-150"
+                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                 />
                 
                 {/* Glass Effect Overlay */}
