@@ -44,7 +44,7 @@ function App() {
       description:
         "Comprehensive metal trading solutions for industrial and manufacturing needs.",
       image:
-        "public/images/metals/metals_bg.png",
+        "images/metals/metals_bg.png",
       details: [
         {
           title: "Metal Products",
@@ -52,7 +52,7 @@ function App() {
             {
               name: "Copper wire scrap",
               image:
-                "public/images/metals/copper_wire.jpeg",
+                "images/metals/copper_wire.jpeg",
               description:
                 "High-quality copper concentrate, wire scrap, and cathodes, sourced from certified suppliers and processed to meet industry standards.",
               hasVideo: true,
@@ -61,28 +61,28 @@ function App() {
             {
               name: "Copper cathodes",
               image:
-                "/public/images/metals/copper_cathodes.jpeg",
+                "/images/metals/copper_cathodes.jpeg",
               description:
                 "High-grade steel products including sheets, bars, and structural steel, meeting international quality standards.",
             },
             {
               name: "Aluminum ingots",
               image:
-                "/public/images/metals/aluminium_ingots.jpeg",
+                "/images/metals/aluminium_ingots.jpeg",
               description:
                 "Premium aluminum extrusions and ingots for industrial use, manufactured to precise specifications and quality standards.",
             },
             {
               name: "UBC (Used Beverage Cans)",
               image:
-                "/public/images/metals/beverage_cans.jpeg",
+                "/images/metals/beverage_cans.jpeg",
               description:
                 "Recycled aluminum beverage cans for sustainable manufacturing, processed and sorted to ensure maximum quality and purity.",
             },
             {
               name: "Used rail",
               image:
-                "/public/images/metals/used_rail.jpeg",
+                "/images/metals/used_rail.jpeg",
               description:
                 "Quality used railway tracks for industrial applications, carefully inspected and certified for various industrial uses.",
             },
@@ -104,35 +104,35 @@ function App() {
             {
               name: "Dry Fruits",
               image:
-                "public/images/agricultural/dryfruits.png",
+                "images/agricultural/dryfruits.png",
               description:
                 "Premium quality dried fruits including almonds, cashews, pistachios, and raisins, sourced from the finest orchards and processed under strict quality control measures.",
             },
             {
               name: "Spices",
               image:
-                "public/images/agricultural/spices.png",
+                "images/agricultural/spices.png",
               description:
                 "Authentic Indian spices known for their rich aroma and flavor, carefully selected and processed to maintain their natural properties and freshness.",
             },
             {
               name: "Pulses & Lentils",
               image:
-                "public/images/agricultural/pulsesAndLentils.png",
+                "images/agricultural/pulsesAndLentils.png",
               description:
                 "High-quality pulses and lentils sourced from the finest farms, cleaned and processed using modern technology to ensure the best quality.",
             },
             {
               name: "Rice",
               image:
-                "public/images/agricultural/rice.png",
+                "images/agricultural/rice.png",
               description:
                 "Premium varieties of rice including Basmati and specialty grains, aged and processed to perfection for the finest cooking experience.",
             },
             {
               name: "Fresh Produce",
               image:
-                "public/images/agricultural/freshproduce.png",
+                "images/agricultural/freshproduce.png",
               description:
                 "Fresh fruits and vegetables exported worldwide, maintained in temperature-controlled environments to ensure freshness and quality.",
             },
@@ -154,28 +154,28 @@ function App() {
             {
               name: "Textile Crafts",
               image:
-                "public/images/handicraft/textile.png",
+                "images/handicraft/textile.png",
               description:
                 "Handwoven textiles featuring traditional patterns and techniques, created by skilled artisans using age-old methods passed down through generations.",
             },
             {
               name: "Pottery & Ceramics",
               image:
-                "public/images/handicraft/pottery.png",
+                "images/handicraft/pottery.png",
               description:
                 "Handcrafted pottery and ceramic items with intricate designs, each piece uniquely crafted to reflect cultural heritage and artistic excellence.",
             },
             {
               name: "Woodwork",
               image:
-                "public/images/handicraft/woodwork.png",
+                "images/handicraft/woodwork.png",
               description:
                 "Carved wooden items showcasing traditional craftsmanship, featuring intricate designs and patterns that tell stories of cultural heritage.",
             },
             {
               name: "Metal Crafts",
               image:
-                "public/images/handicraft/metalcraft.png",
+                "images/handicraft/metalcraft.png",
               description:
                 "Intricately designed metal artifacts and decorative items, handcrafted by skilled artisans using traditional techniques.",
             },
@@ -187,28 +187,28 @@ function App() {
             {
               name: "Glass Crafts",
               image:
-                "public/images/handicraft/glasscraft.png",
+                "images/handicraft/glasscraft.png",
               description:
                 "Beautiful glass art pieces and decorative items, handcrafted using traditional glassblowing techniques and modern design elements.",
             },
             {
               name: "Leatherwork",
               image:
-                "public/images/handicraft/leatherwork.png",
+                "images/handicraft/leatherwork.png",
               description:
                 "Handcrafted leather goods and accessories, made from premium quality leather and finished with expert craftsmanship.",
             },
             {
               name: "Stone Carving",
               image:
-                "public/images/handicraft/stonecarving.png",
+                "images/handicraft/stonecarving.png",
               description:
                 "Intricately carved stone sculptures and decorative pieces, each telling a unique story through traditional motifs and patterns.",
             },
             {
               name: "Bamboo & Cane",
               image:
-                "public/images/handicraft/bambooAndCane.png",
+                "images/handicraft/bambooAndCane.png",
               description:
                 "Eco-friendly bamboo and cane furniture and accessories, handcrafted by skilled artisans using sustainable materials.",
             },
@@ -230,28 +230,28 @@ function App() {
             {
               name: "Gold-Plated Jewellery",
               image:
-                "public/public/images/imitation/goldPlated.png",
+                "images/imitation/goldPlated.png",
               description:
                 "Elegant gold-plated pieces with premium finish, designed to add luxury to every occasion while maintaining affordability.",
             },
             {
               name: "Silver-Plated Jewellery",
               image:
-                "public/images/imitation/silverPlated.png",
+                "images/imitation/silverPlated.png",
               description:
                 "Sophisticated silver-plated accessories for every occasion, combining traditional designs with contemporary style.",
             },
             {
               name: "Kundan Jewellery",
               image:
-                "public/images/imitation/kundan.png",
+                "images/imitation/kundan.png",
               description:
                 "Traditional Kundan pieces with intricate detailing, handcrafted to perfection using ancient techniques.",
             },
             {
               name: "Meenakari & Polki",
               image:
-                "public/images/imitation/meenakari.png",
+                "images/imitation/meenakari.png",
               description:
                 "Colorful enamel work and uncut diamond style jewellery, showcasing the rich heritage of Indian craftsmanship.",
             },
@@ -263,28 +263,28 @@ function App() {
             {
               name: "Oxidized Jewellery",
               image:
-                "public/images/imitation/oxidized.png",
+                "images/imitation/oxidized.png",
               description:
                 "Trendy oxidized pieces with antique finish, perfect for both traditional and contemporary outfits.",
             },
             {
               name: "Pearl Collection",
               image:
-                "public/images/imitation/pearl.png",
+                "images/imitation/pearl.png",
               description:
                 "Elegant pearl jewellery for a classic look, featuring high-quality synthetic pearls in various designs.",
             },
             {
               name: "Beaded Jewellery",
               image:
-                "public/public/images/imitation/beaded.png",
+                "images/imitation/beaded.png",
               description:
                 "Colorful beaded accessories for casual wear, handcrafted using premium quality beads and materials.",
             },
             {
               name: "Thread & Fabric",
               image:
-                "public/images/imitation/thread.png",
+                "images/imitation/thread.png",
               description:
                 "Handcrafted thread and fabric jewellery pieces, combining traditional techniques with modern designs.",
             },

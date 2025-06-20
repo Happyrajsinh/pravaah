@@ -4,19 +4,19 @@ import { useCallback, useEffect, useState } from "react";
 
 const SLIDES = [
   {
-    url: "public/images/hero_section/Hero_2.png",
+    url: "images/hero_section/Hero_2.png",
     title: "Air Freight Excellence",
   },
   {
-    url: "public/images/hero_section/Hero_1.png",
+    url: "images/hero_section/Hero_1.png",
     title: "Global Logistics Excellence",
   },
   {
-    url: "public/images/hero_section/Hero_3.png",
+    url: "images/hero_section/Hero_3.png",
     title: "Integrated Logistics Solutions",
   },
   {
-    url: "public/images/hero_section/Hero_1.png",
+    url: "images/hero_section/Hero_1.png",
     title: "Global Transportation Network",
   },
 ];
