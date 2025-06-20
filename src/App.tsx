@@ -706,7 +706,7 @@ function App() {
                   <div>
                     <p className="font-medium leading-tight">Location</p>
                     <p className="text-sm text-white/80 leading-snug">
-                      Gujarat, India
+                      Ahmedabad, Gujarat, India
                     </p>
                   </div>
                 </div>
@@ -767,7 +767,7 @@ function App() {
                   <div>
                     <p className="font-medium leading-tight">Phone</p>
                     <p className="text-sm text-white/80 leading-snug">
-                      +91 78638 93010
+                      +91 96620 64117
                       {copied === "phone" && (
                         <span className="ml-2 text-accent text-xs">
                           Copied!
@@ -927,7 +927,7 @@ function App() {
               <ul className="space-y-2">
                 <li>pravaahcommodities@gmail.com</li>
                 <li>+91 78638 93010</li>
-                <li>Gujarat, India</li>
+                <li>Ahmedabad, Gujarat, India</li>
               </ul>
             </div>
           </div>
