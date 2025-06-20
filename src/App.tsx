@@ -480,7 +480,7 @@ function App() {
                 image:
                   "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&q=80&sat=2",
                 region: "Africa",
-                countries: "Kenya, Nigeria, South Africa",
+                countries: "Kenya, DRC, Tanzania, Zambia, South Africa",
               },
               {
                 image:

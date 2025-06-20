@@ -30,7 +30,7 @@ export function VideoModal({ isOpen, onClose }: VideoModalProps) {
         <div className="relative pt-[56.25%]">
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="public/videos/pravaah-intro.mp4"
+            src="videos/pravaah-intro.mp4"
             title="Company Overview"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
