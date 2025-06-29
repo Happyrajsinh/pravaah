@@ -50,6 +50,15 @@ function App() {
           title: "Metal Products",
           items: [
             {
+              name: "Copper millbury",
+              image:
+                "images/metals/copper_wire.jpeg",
+              description:
+                "High-quality copper concentrate, wire scrap, and cathodes, sourced from certified suppliers and processed to meet industry standards.",
+              hasVideo: true,
+              videoUrl: "/videos/copper-millbury.mp4",
+            },
+            {
               name: "Copper wire scrap",
               image:
                 "images/metals/copper_wire.jpeg",
