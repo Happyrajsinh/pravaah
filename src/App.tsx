@@ -43,16 +43,14 @@ function App() {
       title: "Metal Trading",
       description:
         "Comprehensive metal trading solutions for industrial and manufacturing needs.",
-      image:
-        "images/metals/metals_bg.png",
+      image: "images/metals/metals_bg.png",
       details: [
         {
           title: "Metal Products",
           items: [
             {
               name: "Copper millbury",
-              image:
-                "images/metals/copper_wire.jpeg",
+              image: "images/metals/copper_wire.jpeg",
               description:
                 "High-quality copper concentrate, wire scrap, and cathodes, sourced from certified suppliers and processed to meet industry standards.",
               hasVideo: true,
@@ -60,8 +58,7 @@ function App() {
             },
             {
               name: "Copper wire scrap",
-              image:
-                "images/metals/copper_wire.jpeg",
+              image: "images/metals/copper_wire.jpeg",
               description:
                 "High-quality copper concentrate, wire scrap, and cathodes, sourced from certified suppliers and processed to meet industry standards.",
               hasVideo: true,
@@ -69,29 +66,25 @@ function App() {
             },
             {
               name: "Copper cathodes",
-              image:
-                "/images/metals/copper_cathodes.jpeg",
+              image: "/images/metals/copper_cathodes.jpeg",
               description:
                 "High-grade steel products including sheets, bars, and structural steel, meeting international quality standards.",
             },
             {
               name: "Aluminum ingots",
-              image:
-                "/images/metals/aluminium_ingots.jpeg",
+              image: "/images/metals/aluminium_ingots.jpeg",
               description:
                 "Premium aluminum extrusions and ingots for industrial use, manufactured to precise specifications and quality standards.",
             },
             {
               name: "UBC (Used Beverage Cans)",
-              image:
-                "/images/metals/beverage_cans.jpeg",
+              image: "/images/metals/beverage_cans.jpeg",
               description:
                 "Recycled aluminum beverage cans for sustainable manufacturing, processed and sorted to ensure maximum quality and purity.",
             },
             {
               name: "Used rail",
-              image:
-                "/images/metals/used_rail.jpeg",
+              image: "/images/metals/used_rail.jpeg",
               description:
                 "Quality used railway tracks for industrial applications, carefully inspected and certified for various industrial uses.",
             },
@@ -112,36 +105,31 @@ function App() {
           items: [
             {
               name: "Dry Fruits",
-              image:
-                "images/agricultural/dryfruits.png",
+              image: "images/agricultural/dryfruits.png",
               description:
                 "Premium quality dried fruits including almonds, cashews, pistachios, and raisins, sourced from the finest orchards and processed under strict quality control measures.",
             },
             {
               name: "Spices",
-              image:
-                "images/agricultural/spices.png",
+              image: "images/agricultural/spices.png",
               description:
                 "Authentic Indian spices known for their rich aroma and flavor, carefully selected and processed to maintain their natural properties and freshness.",
             },
             {
               name: "Pulses & Lentils",
-              image:
-                "images/agricultural/pulsesAndLentils.png",
+              image: "images/agricultural/pulsesAndLentils.png",
               description:
                 "High-quality pulses and lentils sourced from the finest farms, cleaned and processed using modern technology to ensure the best quality.",
             },
             {
               name: "Rice",
-              image:
-                "images/agricultural/rice.png",
+              image: "images/agricultural/rice.png",
               description:
                 "Premium varieties of rice including Basmati and specialty grains, aged and processed to perfection for the finest cooking experience.",
             },
             {
               name: "Fresh Produce",
-              image:
-                "images/agricultural/freshproduce.png",
+              image: "images/agricultural/freshproduce.png",
               description:
                 "Fresh fruits and vegetables exported worldwide, maintained in temperature-controlled environments to ensure freshness and quality.",
             },
@@ -162,29 +150,25 @@ function App() {
           items: [
             {
               name: "Textile Crafts",
-              image:
-                "images/handicraft/textile.png",
+              image: "images/handicraft/textile.png",
               description:
                 "Handwoven textiles featuring traditional patterns and techniques, created by skilled artisans using age-old methods passed down through generations.",
             },
             {
               name: "Pottery & Ceramics",
-              image:
-                "images/handicraft/pottery.png",
+              image: "images/handicraft/pottery.png",
               description:
                 "Handcrafted pottery and ceramic items with intricate designs, each piece uniquely crafted to reflect cultural heritage and artistic excellence.",
             },
             {
               name: "Woodwork",
-              image:
-                "images/handicraft/woodwork.png",
+              image: "images/handicraft/woodwork.png",
               description:
                 "Carved wooden items showcasing traditional craftsmanship, featuring intricate designs and patterns that tell stories of cultural heritage.",
             },
             {
               name: "Metal Crafts",
-              image:
-                "images/handicraft/metalcraft.png",
+              image: "images/handicraft/metalcraft.png",
               description:
                 "Intricately designed metal artifacts and decorative items, handcrafted by skilled artisans using traditional techniques.",
             },
@@ -195,29 +179,25 @@ function App() {
           items: [
             {
               name: "Glass Crafts",
-              image:
-                "images/handicraft/glasscraft.png",
+              image: "images/handicraft/glasscraft.png",
               description:
                 "Beautiful glass art pieces and decorative items, handcrafted using traditional glassblowing techniques and modern design elements.",
             },
             {
               name: "Leatherwork",
-              image:
-                "images/handicraft/leatherwork.png",
+              image: "images/handicraft/leatherwork.png",
               description:
                 "Handcrafted leather goods and accessories, made from premium quality leather and finished with expert craftsmanship.",
             },
             {
               name: "Stone Carving",
-              image:
-                "images/handicraft/stonecarving.png",
+              image: "images/handicraft/stonecarving.png",
               description:
                 "Intricately carved stone sculptures and decorative pieces, each telling a unique story through traditional motifs and patterns.",
             },
             {
               name: "Bamboo & Cane",
-              image:
-                "images/handicraft/bambooAndCane.png",
+              image: "images/handicraft/bambooAndCane.png",
               description:
                 "Eco-friendly bamboo and cane furniture and accessories, handcrafted by skilled artisans using sustainable materials.",
             },
@@ -238,29 +218,25 @@ function App() {
           items: [
             {
               name: "Gold-Plated Jewellery",
-              image:
-                "images/imitation/goldPlated.png",
+              image: "images/imitation/goldPlated.png",
               description:
                 "Elegant gold-plated pieces with premium finish, designed to add luxury to every occasion while maintaining affordability.",
             },
             {
               name: "Silver-Plated Jewellery",
-              image:
-                "images/imitation/silverPlated.png",
+              image: "images/imitation/silverPlated.png",
               description:
                 "Sophisticated silver-plated accessories for every occasion, combining traditional designs with contemporary style.",
             },
             {
               name: "Kundan Jewellery",
-              image:
-                "images/imitation/kundan.png",
+              image: "images/imitation/kundan.png",
               description:
                 "Traditional Kundan pieces with intricate detailing, handcrafted to perfection using ancient techniques.",
             },
             {
               name: "Meenakari & Polki",
-              image:
-                "images/imitation/meenakari.png",
+              image: "images/imitation/meenakari.png",
               description:
                 "Colorful enamel work and uncut diamond style jewellery, showcasing the rich heritage of Indian craftsmanship.",
             },
@@ -271,29 +247,25 @@ function App() {
           items: [
             {
               name: "Oxidized Jewellery",
-              image:
-                "images/imitation/oxidized.png",
+              image: "images/imitation/oxidized.png",
               description:
                 "Trendy oxidized pieces with antique finish, perfect for both traditional and contemporary outfits.",
             },
             {
               name: "Pearl Collection",
-              image:
-                "images/imitation/pearl.png",
+              image: "images/imitation/pearl.png",
               description:
                 "Elegant pearl jewellery for a classic look, featuring high-quality synthetic pearls in various designs.",
             },
             {
               name: "Beaded Jewellery",
-              image:
-                "images/imitation/beaded.png",
+              image: "images/imitation/beaded.png",
               description:
                 "Colorful beaded accessories for casual wear, handcrafted using premium quality beads and materials.",
             },
             {
               name: "Thread & Fabric",
-              image:
-                "images/imitation/thread.png",
+              image: "images/imitation/thread.png",
               description:
                 "Handcrafted thread and fabric jewellery pieces, combining traditional techniques with modern designs.",
             },
@@ -624,8 +596,12 @@ function App() {
           <h2 className="text-4xl font-bold text-white mb-12 text-center">
             Contact Us
           </h2>
-          <div className="max-w-2xl mx-auto">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
+            {/* Contact Form */}
             <div className="backdrop-blur-xl bg-white/10 p-8 rounded-2xl shadow-2xl border border-white/20">
+              <h3 className="text-2xl font-bold text-white mb-6">
+                Get In Touch
+              </h3>
               <form className="space-y-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div>
@@ -708,109 +684,147 @@ function App() {
                 </button>
               </form>
 
-              <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[1fr_1.25fr_1fr_1fr] gap-6 text-white">
-                {/* Location */}
-                <div className="flex items-start space-x-3">
-                  <MapPin className="w-6 h-6 text-accent mt-1" />
-                  <div>
-                    <p className="font-medium leading-tight">Location</p>
-                    <p className="text-sm text-white/80 leading-snug">
-                      Ahmedabad, Gujarat, India
-                    </p>
+              {/* Contact Information */}
+              <div className="mt-8 pt-8 border-t border-white/20">
+                <h4 className="text-xl font-bold text-accent mb-6">
+                  Contact Information
+                </h4>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-4">
+                  <div className="flex items-center space-x-3 text-white">
+                    {/* <div className="w-10 h-10 bg-accent/20 rounded-full flex items-center justify-center"> */}
+                    <MapPin className="w-6 h-6 text-accent mt-1" />
+                    {/* </div> */}
+                    <div>
+                      <p className="font-medium">Location</p>
+                      <p className="text-sm text-white/80">
+                        Ahmedabad, Gujarat
+                      </p>
+                    </div>
                   </div>
-                </div>
-
-                {/* Email */}
-                <div
-                  className="flex items-start space-x-3 cursor-pointer"
-                  onClick={() =>
-                    handleCopy("pravaahcommodities@gmail.com", "email")
-                  }
-                >
-                  <svg
-                    className="w-6 h-6 text-accent mt-1"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                  <div
+                    className="flex items-center space-x-3 text-white"
+                    onClick={() =>
+                      handleCopy("pravaahcommodities@gmail.com", "email")
+                    }
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth="2"
-                      d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
-                    />
-                  </svg>
-                  <div>
-                    <p className="font-medium leading-tight">Email</p>
-                    <p className="text-sm text-white/80 leading-snug break-words">
-                      pravaahcommodities
-                      <br />
-                      @gmail.com
-                      {copied === "email" && (
-                        <span className="ml-2 text-accent text-xs">
-                          Copied!
-                        </span>
-                      )}
-                    </p>
-                  </div>
-                </div>
+                    <svg
+                      className="w-6 h-6 text-accent mt-1"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth="2"
+                        d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+                      />
+                    </svg>
 
-                {/* Phone */}
-                <div
-                  className="flex items-start space-x-3 cursor-pointer"
-                  onClick={() => handleCopy("+917863893010", "phone")}
-                >
-                  <svg
-                    className="w-6 h-6 text-accent mt-1"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth="2"
-                      d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
-                    />
-                  </svg>
-                  <div>
-                    <p className="font-medium leading-tight">Phone</p>
-                    <p className="text-sm text-white/80 leading-snug">
-                      +91 96620 64117
-                      {copied === "phone" && (
-                        <span className="ml-2 text-accent text-xs">
-                          Copied!
-                        </span>
-                      )}
-                    </p>
+                    <div>
+                      <p className="font-medium">Email</p>
+                      <p className="text-sm text-white/80 break-all">
+                        pravaahcommodities
+                        <br />
+                        @gmail.com
+                        {copied === "email" && (
+                          <span className="ml-2 text-accent text-xs">
+                            Copied!
+                          </span>
+                        )}
+                      </p>
+                    </div>
                   </div>
-                </div>
+                  <div
+                    className="flex items-center space-x-3 text-white"
+                    onClick={() => handleCopy("+919876543210", "phone")}
+                  >
+                    <svg
+                      className="w-6 h-6 text-accent mt-1"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth="2"
+                        d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
+                      />
+                    </svg>
 
-                {/* WhatsApp */}
-                <div
-                  className="flex items-start space-x-3 cursor-pointer"
-                  onClick={() => handleCopy("+917863893010", "whatsapp")}
-                >
-                  <svg
-                    className="w-6 h-6 text-accent mt-1"
-                    fill="currentColor"
-                    viewBox="0 0 32 32"
+                    <div>
+                      <p className="font-medium">Phone</p>
+                      <p className="text-sm text-white/80">
+                        +91 98765 43210
+                        {copied === "phone" && (
+                          <span className="ml-2 text-accent text-xs">
+                            Copied!
+                          </span>
+                        )}
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    className="flex items-center space-x-3 text-white"
+                    onClick={() => handleCopy("+917863893010", "whatsapp")}
                   >
-                    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.787" />{" "}
-                    {/* Replace with full WhatsApp path */}
-                  </svg>
-                  <div className="flex-1">
-                    <p className="font-medium leading-tight">WhatsApp</p>
-                    <p className="text-sm text-white/80 leading-snug">
-                      +91 78638 93010
-                      {copied === "whatsapp" && (
-                        <span className="ml-2 text-accent text-xs">
-                          Copied!
-                        </span>
-                      )}
-                    </p>
+                    <svg
+                      className="w-6 h-6 text-accent mt-1"
+                      fill="currentColor"
+                      viewBox="0 0 32 32"
+                    >
+                      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.787" />{" "}
+                      {/* Replace with full WhatsApp path */}
+                    </svg>
+
+                    <div>
+                      <p className="font-medium">WhatsApp</p>
+                      <p className="text-sm text-white/80">
+                        +91 78638 93010
+                        {copied === "whatsapp" && (
+                          <span className="ml-2 text-accent text-xs">
+                            Copied!
+                          </span>
+                        )}
+                      </p>
+                    </div>
                   </div>
                 </div>
+              </div>
+            </div>
+
+            {/* Google Map */}
+            <div className="backdrop-blur-xl bg-white/10 p-6 rounded-2xl shadow-2xl border border-white/20">
+              <h3 className="text-2xl font-bold text-white mb-4">
+                Our Location
+              </h3>
+              <div className="rounded-lg overflow-hidden">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3669.5367396813936!2d72.53610697590322!3d23.114048438721387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e83dc7c594895%3A0x8ca288d49b2ebbba!2sMoneyplant%20High%20Street%20by%20V%20Square%20Group!5e0!3m2!1sen!2sin!4v1754247407199!5m2!1sen!2sin"
+                  width="100%"
+                  height="368"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  className="rounded-lg"
+                />
+              </div>
+              <div className="mt-4 pt-8 border-t border-white/20 ">
+                {/* <p className="font-medium text-accent">Address:</p> */}
+                <h4 className="text-xl font-bold text-accent mb-6">Address</h4>
+                <p className="text-lg text-white/90 leading-relaxed">
+                  <span className="font-semibold">
+                    B-459, Money Plant High Street
+                  </span>
+                  <br />
+                  Jagatpur Road, Near SG Highway
+                  <br />
+                  Near BSNL Office, Gota
+                  <br />
+                  Ahmedabad, Gujarat – 382470
+                </p>
               </div>
             </div>
           </div>
