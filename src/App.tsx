@@ -737,7 +737,7 @@ function App() {
                   </div>
                   <div
                     className="flex items-center space-x-3 text-white"
-                    onClick={() => handleCopy("+919876543210", "phone")}
+                    onClick={() => handleCopy("+919662064117", "phone")}
                   >
                     <svg
                       className="w-6 h-6 text-accent mt-1"
@@ -756,7 +756,7 @@ function App() {
                     <div>
                       <p className="font-medium">Phone</p>
                       <p className="text-sm text-white/80">
-                        +91 98765 43210
+                        +91 96620 64117
                         {copied === "phone" && (
                           <span className="ml-2 text-accent text-xs">
                             Copied!
