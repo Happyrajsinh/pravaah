@@ -287,8 +287,12 @@ function App() {
 
         <nav className="absolute top-0 left-0 right-0 z-30 px-6 py-6">
           <div className="max-w-7xl mx-auto flex items-center justify-between">
-            <div className="flex items-center space-x-2">
-              <Ship className="h-8 w-8 text-accent" />
+            <div className="flex items-center space-x-3">
+              <img
+                src="/new_logo.png" // replace with your actual image path
+                alt="Pravaah Commodities Logo"
+                className="h-12 w-12 object-contain drop-shadow-lg contrast-125 brightness-110"
+              />
               <span className="text-2xl font-bold text-white">
                 Pravaah <span className="text-accent">Commodities</span>
               </span>
@@ -821,9 +825,9 @@ function App() {
                   <br />
                   Jagatpur Road, Near SG Highway
                   <br />
-                  Near BSNL Office, Gota
+                  Gota, Ahmedabad
                   <br />
-                  Ahmedabad, Gujarat – 382470
+                  Gujarat – 382470
                 </p>
               </div>
             </div>
@@ -833,15 +837,20 @@ function App() {
 
       <footer className="bg-gray-900 text-gray-400 py-12">
         <div className="max-w-7xl mx-auto px-6">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-            <div>
-              <div className="flex items-center space-x-2">
-                <Ship className="h-8 w-8 text-accent" />
-                <span className="text-xl font-bold text-white">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-8 items-start">
+            {/* First column */}
+            <div className="flex flex-col justify-start md:pt-1">
+              <div className="flex items-center relative">
+                <img
+                  src="/new_logo.png"
+                  alt="Pravaah Commodities Logo"
+                  className="h-12 w-12 object-contain absolute -top-2"
+                />
+                <span className="ml-14 text-xl font-bold text-white leading-none">
                   Pravaah <span className="text-accent">Commodities</span>
                 </span>
               </div>
-              <p className="mt-4">
+              <p className="mt-8">
                 Your trusted partner in global trade since 2015.
               </p>
               <div className="mt-6 flex space-x-4">
@@ -871,7 +880,9 @@ function App() {
                 </a>
               </div>
             </div>
-            <div>
+
+            {/* Services */}
+            <div className="mt-1">
               <h4 className="text-accent font-semibold mb-4">Services</h4>
               <ul className="space-y-2">
                 <li>
@@ -900,7 +911,9 @@ function App() {
                 </li>
               </ul>
             </div>
-            <div>
+
+            {/* Regions */}
+            <div className="mt-1">
               <h4 className="text-accent font-semibold mb-4">Regions</h4>
               <ul className="space-y-2">
                 <li>
@@ -945,7 +958,9 @@ function App() {
                 </li>
               </ul>
             </div>
-            <div>
+
+            {/* Contact */}
+            <div className="mt-1">
               <h4 className="text-accent font-semibold mb-4">Contact</h4>
               <ul className="space-y-2">
                 <li>pravaahcommodities@gmail.com</li>
@@ -954,6 +969,8 @@ function App() {
               </ul>
             </div>
           </div>
+
+          {/* Bottom border */}
           <div className="mt-12 pt-8 border-t border-gray-800 text-center">
             <p>&copy; 2025 Pravaah Commodities. All rights reserved.</p>
           </div>
