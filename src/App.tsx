@@ -855,7 +855,7 @@ function App() {
               </p>
               <div className="mt-6 flex space-x-4">
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/pravaah-commodities-3aa29a37b/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-accent transition"
@@ -863,7 +863,7 @@ function App() {
                   <Linkedin className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/profile.php?id=61579725442697"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-accent transition"
@@ -871,7 +871,7 @@ function App() {
                   <Facebook className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/pravaahcommodities/?utm_source=qr&igsh=ZDY0bjI3Mmxxajkx#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-accent transition"
